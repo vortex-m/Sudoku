@@ -1,2 +1,2 @@
 # Sudoku
-Sudoku game mady by HTML, CSS, Js
+Sudoku game mady by using HTML, CSS, Js
